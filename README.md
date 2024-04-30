@@ -1,5 +1,6 @@
 Seventy years after the U.S. Supreme Court ended the “separate but equal” policy of segregating America’s public schools, those schools remain deeply segregated, according to data compiled by ABC News and ABC’s Owned Television (OTV) stations.
 Using 2022-2023 student enrollment data from the U.S. Department of Education for more than 100,000 public schools, the ABC News analysis found:
+
 •	Overall, about 83% of all Black public school students and 82% of all Latino students attended a majority non-White school. At the same time, 75% of all White public school students were enrolled in a majority-White school.
 
 •	Segregation was most persistent in America’s elementary (housing grade levels K-6), which draw more of their students from surrounding neighborhoods. About 83% of all Black and Latino public school students in those grades were enrolled in majority Non-White schools, while 76% of White students in those grades were in majority-White schools.
